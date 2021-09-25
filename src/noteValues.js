@@ -1,4 +1,9 @@
-export default {
+/**
+ * copied directly from 
+ * https://gist.github.com/marcgg/94e97def0e8694f906443ed5262e9cbb, which is
+ * possibly sourced from https://pages.mtu.edu/~suits/notefreqs.html
+ */
+const noteValues = {
   C0: 16.35,
   "C#0": 17.32,
   Db0: 17.32,
@@ -137,3 +142,5 @@ export default {
   B7: 3951.07,
   C8: 4186.01
 };
+
+export default noteValues;

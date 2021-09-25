@@ -69,7 +69,7 @@ export default function App() {
   return (
     <>
       <h1>
-        <span aria-hidden>🎶</span> tuning fork robot
+        tuning fork robot
       </h1>
       <div>
         <select aria-label="Note" onChange={onSelect(setNote)} value={note}>

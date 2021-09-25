@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tuning-fork/static/css/main.a43390a6.chunk.css",
+    "main.js": "/tuning-fork/static/js/main.a7d90e7f.chunk.js",
+    "main.js.map": "/tuning-fork/static/js/main.a7d90e7f.chunk.js.map",
+    "runtime-main.js": "/tuning-fork/static/js/runtime-main.ab0c8eca.js",
+    "runtime-main.js.map": "/tuning-fork/static/js/runtime-main.ab0c8eca.js.map",
+    "static/js/2.06bf0848.chunk.js": "/tuning-fork/static/js/2.06bf0848.chunk.js",
+    "static/js/2.06bf0848.chunk.js.map": "/tuning-fork/static/js/2.06bf0848.chunk.js.map",
+    "index.html": "/tuning-fork/index.html",
+    "static/css/main.a43390a6.chunk.css.map": "/tuning-fork/static/css/main.a43390a6.chunk.css.map",
+    "static/js/2.06bf0848.chunk.js.LICENSE.txt": "/tuning-fork/static/js/2.06bf0848.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab0c8eca.js",
+    "static/js/2.06bf0848.chunk.js",
+    "static/css/main.a43390a6.chunk.css",
+    "static/js/main.a7d90e7f.chunk.js"
+  ]
+}

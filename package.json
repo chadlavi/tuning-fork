@@ -1,17 +1,17 @@
 {
-  "name": "react",
+  "name": "tuning-fork",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "description": "A very simple tuning fork in the browser",
   "main": "src/index.js",
+  "homepage": "https://chadlavi.github.io/tuning-fork",
   "dependencies": {
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-scripts": "4.0.0"
+    "react-scripts": "4.0.3"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
-    "typescript": "4.1.3"
+    "typescript": "4.4.3"
   },
   "scripts": {
     "start": "react-scripts start",

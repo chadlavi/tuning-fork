@@ -15,6 +15,7 @@
 }
 
 button,
-select {
+select,
+input {
   margin: 2px;
 }

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import "./styles.css";
 import noteValues from "./noteValues";
+import Metronome from "./Metronome";
 
 const waveTypes = ["sine", "square", "triangle", "sawtooth"];
 
@@ -68,9 +69,8 @@ export default function App() {
 
   return (
     <>
-      <h1>
-        tuning fork robot
-      </h1>
+      <h1>tuning fork robot</h1>
+      <h2>Tuning fork</h2>
       <div>
         <select aria-label="Note" onChange={onSelect(setNote)} value={note}>
           {Object.keys(noteValues).map((n) => (
@@ -102,6 +102,7 @@ export default function App() {
           stop
         </button>
       </div>
+      <Metronome />
     </>
   );
 }
